@@ -2,6 +2,6 @@
 
 # PART 1
 
-![](../image/part_orn.png)
+![](../images/part_orn.png)
 
 # What Is Behavioral Addiction and Where Did It Come From?

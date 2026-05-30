@@ -2,6 +2,6 @@
 
 # PART 2
 
-![](../image/part_orn.png)
+![](../images/part_orn.png)
 
 # The Ingredients of Behavioral Addiction (or, How to Engineer an Addictive Experience)

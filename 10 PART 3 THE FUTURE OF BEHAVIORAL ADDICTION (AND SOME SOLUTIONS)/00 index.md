@@ -2,6 +2,6 @@
 
 # PART 3
 
-![](../image/part_orn.png)
+![](../images/part_orn.png)
 
 # The Future of Behavioral Addiction (and Some Solutions)
