@@ -1,0 +1,11 @@
+# Acknowledgments
+
+# ACKNOWLEDGMENTS
+
+A huge thank you to the teams at Penguin Press, Inkwell Management, and Broadside PR. At Penguin Press, in particular, to my wise and patient editor, Ann Godoff, who made *Irresistible* far stronger and tighter than I could have managed alone. Also at Penguin Press, thanks to Will Heyward, Juliana Kiyan, Sara Hutson, Matt Boyd, Caitlin O’Shaughnessy, and Casey Rasch. At Inkwell, special thanks to my kind, insightful agent, Richard Pine, who is everything an agent should be: an ideas man, a psychologist, a publicity guru, and a friend. Also at Inkwell, thanks to Eliza Rothstein and Alexis Hurley. And at Broadside, thanks to Whitney Peeling and the entire Broadside team.
+
+For reading earlier drafts of *Irresistible*, sharing their ideas, and patiently answering my questions, thanks to Nicole Airey, Dean Alter, Jenny Alter, Ian Alter, Sara Alter, Chloe Angyal, Gary Aston Jones, Nicole Avena, Jessica Barson, Kent Berridge, Michael Brough, Oliver Burkeman, Hilarie Cash, Ben Caunt, Rameet Chawla, John Disterhoft, Andy Doan, Natasha Dow Schüll, David Epstein, Bennett Foddy, Allen Frances, Claire Gillan, Malcolm Gladwell, David Goldhill, Adam Grant, Melanie Green, Mark Griffiths, Hal Hershfield, Jason Hirschel, Kevin Holesh, Margot Lacey, Frank Lantz, Andrew Lawrence, Tom Meyvis, Stanton Peele, Jeff Peretz, Ryan Petrie, Sam Polk, Cosette Rae, Aryeh Routtenberg, Adam Saltsman, Katherine Schreiber, Maneesh Sethi, Eesha Sharma, Leslie Sim, Anni Sternisko, Abby Sussman, Maia Szalavitz, Isaac Vaisberg, Carrie Wilkens, Bob Wurtz, and Kimberly Young.
+
+In late 2014, I described the premise of *Irresistible* to the students who took my marketing class at New York University’s Stern School of Business. Thanks to those who helped me by sending anecdotes and examples of addictive tech, particularly Griffin Carlborg, Caterina Cestarelli, Gizem Ceylan, Arianna Chang, Jane Chyun, Sanhita Dutta Gupta, Elina Hur, Allega Ingerson, Nishant Jain, Chakshu Madhok, Danielle Nir, Michelle See, Yash Seksaria, Yu Sheng, Jenna Steckel, Sonya Shah, Lindsay Stecklein, Anne-Sophie Svoboda, Madhumitha Venkataraman, and Amy Zhu.
+
+And thanks, always, to my wife, Sara; my son, Sam; my parents, Ian and Jenny; Suzy and Mike; and my brother Dean.
