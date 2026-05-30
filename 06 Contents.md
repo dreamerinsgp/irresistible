@@ -2,7 +2,7 @@
 
 # CONTENTS
 
-![](../image/orn.png)
+![](images/orn.png)
 
 [Also by Adam Alter](02_Also_by_Adam_Alter.xhtml)
 

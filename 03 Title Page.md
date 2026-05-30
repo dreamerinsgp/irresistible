@@ -1,3 +1,3 @@
 # Title Page
 
-![](../image/9781594206641_Irresistible_TX_pi-356.jpg)
+![](images/9781594206641_Irresistible_TX_pi-356.jpg)

@@ -1672,8 +1672,8 @@ zone of proximal development, [174](16_7_Escalation.xhtml#pageMap_174)–76
 
 Zuckerberg, Mark, [141](14_5_Feedback.xhtml#pageMap_141), [142](14_5_Feedback.xhtml#pageMap_142)–43, [217](18_9_Social_Interaction.xhtml#pageMap_217), [224](18_9_Social_Interaction.xhtml#pageMap_224)
 
-![Penguin Random House Next Reads logo](../image/next-reads_logo.jpg)
-![Penguin Random House Next Reads logo](../image/next-reads_logo.jpg)
+![Penguin Random House Next Reads logo](images/next-reads_logo.jpg)
+![Penguin Random House Next Reads logo](images/next-reads_logo.jpg)
 
 # *What’s next on your reading list?*
 

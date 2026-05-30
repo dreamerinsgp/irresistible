@@ -1,3 +1,3 @@
 # Cover
 
-![Cover for Irresistible](../image/cover.jpg)
+![Cover for Irresistible](images/cover.jpg)
